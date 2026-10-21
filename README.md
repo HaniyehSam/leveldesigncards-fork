@@ -33,6 +33,10 @@ Update the simulator: `git -C cardsimulator pull origin main`, then commit the c
 	- leveldesigncards (that includes cardsimulator as submodule)
 - some other links updated
 - repository is now content only: new card table from `cardsimulator`, tiny loader `index.html`, `cards/cardset.xml`, GitHub Pages deploy workflow
+- category "examples" renamed to "case studies"
+- new color palette for the categories
+- new case studies: Clair Obscur: Expedition 33, Outer Wilds
+- book links point to the book's Wikipedia article (or its Goodreads page when there is none) instead of Amazon
 - removed `xmlfiles.html` (no longer needed with the deploy workflow)
 - replaced all broken gamasutra.com links with working gamedeveloper.com links
 - new cards

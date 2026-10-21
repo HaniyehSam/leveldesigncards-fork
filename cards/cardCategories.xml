@@ -6,20 +6,20 @@
 		<title>title</title>
 	</cardCategory>
 
-	<cardCategory row="1" color="860000">
+	<cardCategory row="1" color="2C5282">
 		<title>theories</title>
 	</cardCategory>
 
-	<cardCategory row="1" color="B97A03">
+	<cardCategory row="1" color="B04A2A">
 		<title>methods</title>
 	</cardCategory>
 
-	<cardCategory row="2" color="5B0632">
+	<cardCategory row="2" color="4F6B34">
 		<title>related</title>
 	</cardCategory>
 
-	<cardCategory row="2" color="193A32">
-		<title>examples</title>
+	<cardCategory row="2" color="8A6420">
+		<title>case studies</title>
 	</cardCategory>
 
 	<!--

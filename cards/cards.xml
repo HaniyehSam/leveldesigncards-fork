@@ -169,7 +169,7 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<link>https://books.google.de/books?id=RlRVNikT06YC</link> <!-- Henry Jenkins: Convergence Culture -->
 		<link>http://www.bogost.com/blog/on_the_manifesto_for_a_ludic_c.shtml</link>
 		<!-- link>http://gamingvulture.com/2013/09/12/shouldnt-i-be-playing-the-manifesto-for-a-ludic-century/</link -->
-		<link>http://www.amazon.de/Building-Imaginary-Worlds-History-Subcreation/dp/0415631203</link>
+		<link>https://www.goodreads.com/book/show/15858928-building-imaginary-worlds</link> <!-- Goodreads: Building Imaginary Worlds (Mark J. P. Wolf) -->
 		<link>texts/freyermuth_transmedia_twelfepostulates_1to6.pdf</link>
 		<link>http://www.worch.com/2013/04/24/talking-to-the-player-how-cultural-currents-shape-and-level-design/</link>
 		<link>http://www.blog.radiator.debacle.us/2016/03/a-history-and-triumph-of-environment.html</link>
@@ -337,7 +337,7 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<link>http://en.wikipedia.org/wiki/Worldbuilding</link>
 		<link>http://en.wikipedia.org/wiki/Bible_%28writing%29</link>
 		<link>https://joergihle.de/presse/innomedien/</link>
-		<link>http://www.amazon.de/Building-Imaginary-Worlds-History-Subcreation/dp/0415631203</link>
+		<link>https://www.goodreads.com/book/show/15858928-building-imaginary-worlds</link> <!-- Goodreads: Building Imaginary Worlds (Mark J. P. Wolf) -->
 		<link>http://en.wikipedia.org/wiki/Fictional_universe</link>
 		<link>https://en.wikipedia.org/wiki/Na%27vi_language</link>
 		<link>http://www.zamonien.de/lexikon.php</link>
@@ -803,6 +803,34 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<link>https://www.ign.com/videos/lonely-mountains-downhill-developers-react-to-27-minute-speedrun</link>
 		<link>https://eggplant.show/63-finding-your-own-path-with-daniel-helbig</link>
 		<link>https://leveldesignporn.csongorb.org/lonelymountains.html</link>
+	</card>
+
+	<card>
+		<cardCategoryId>4</cardCategoryId>
+		<title forcedFilename="clairobscur">clair obscur:/expedition 33</title>
+		<text>how does the world map tie the levels together? # how is the player guided without a mini-map? # how do the levels pace exploration and combat? # where are secrets and optional areas hidden? # how did a small team build so many levels? # related theories, methods, disciplines?</text>
+		<link>https://www.youtube.com/watch?v=t1CrbTx6O6w</link> <!-- Unreal Fest Stockholm 2025: The Technical Journey of Clair Obscur -->
+		<link>https://www.youtube.com/watch?v=BLUbu8he0og</link> <!-- GDC Festival of Gaming: Small Team, Massive Game (four programmers) -->
+		<link>https://www.youtube.com/watch?v=Hc5jC099-vE</link> <!-- Unreal Engine: Clair Obscur developer interview -->
+		<link>https://blog.playstation.com/2026/03/11/how-the-clair-obscur-expedition-33-dev-process-powered-creative-design-freedom/</link> <!-- PlayStation Blog: How the dev process powered creative design freedom -->
+		<link>https://gamerant.com/clair-obscur-expedition-33-no-mini-map-ceo-explanation/</link> <!-- Game Rant: Why there is no mini-map -->
+		<link>https://www.techradar.com/gaming/clair-obscur-expedition-33-surprised-me-with-its-world-map-reminiscent-of-classic-rpgs</link> <!-- TechRadar: A world map reminiscent of classic RPGs -->
+		<link>https://automaton-media.com/en/interviews/clair-obscur-expedition-33-director-eliminating-limitations-is-a-big-mistake-we-talk-to-sandfall-interactive-about-staying-small-japanese-influences/</link> <!-- Automaton interview: Why removing limitations is a big mistake (staying small) -->
+		<link>https://www.gamedeveloper.com/programming/clair-obscur-expedition-33-was-built-95-percent-with-unreal-blueprints</link> <!-- Game Developer: Built 95 percent with Unreal Blueprints -->
+		<link>https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33</link> <!-- Wikipedia: Clair Obscur: Expedition 33 -->
+	</card>
+
+	<card>
+		<cardCategoryId>4</cardCategoryId>
+		<title forcedFilename="outerwilds">outer wilds</title>
+		<text>how can a level change over time? # how is knowledge the only progression? # how does the player find the way through a whole solar system? # how are the planets connected? # related theories, methods, disciplines?</text>
+		<link>https://www.gamedeveloper.com/design/see-the-4d-level-design-of-i-outer-wilds-i-deconstructed-at-gdc-2020-</link> <!-- GDC 2020: The 4D level design of Outer Wilds (Alex Beachum) -->
+		<link>https://www.youtube.com/watch?v=vGnce1Dp9BU</link> <!-- Full Indie: Alex Beachum, Designing for Curiosity in Outer Wilds -->
+		<link>https://www.youtube.com/watch?v=LbY0mBXKKT0</link> <!-- Noclip: The Making of Outer Wilds -->
+		<link>https://gdcvault.com/play/1027008/Independent-Games-Summit-Sparking-Curiosity</link> <!-- GDC 2021: Sparking Curiosity-Driven Exploration Through Narrative (Kelsey Beachum) -->
+		<link>https://media.gdcvault.com/GDC+2021/Andrew+Woodward_OuterWildsPoster.pdf</link> <!-- GDC 2021 poster: Truth in Simulation -->
+		<link>https://www.youtube.com/watch?v=3bLTlyWgHAw</link> <!-- The Examined Game: The design decision that makes and breaks Outer Wilds -->
+		<link>https://en.wikipedia.org/wiki/Outer_Wilds</link> <!-- Wikipedia: Outer Wilds -->
 	</card>
 
 </cards>
